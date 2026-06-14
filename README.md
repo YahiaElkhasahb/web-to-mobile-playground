@@ -48,10 +48,9 @@ A hands-on experiment with Ionic and Capacitor — exploring how to wrap a web a
 **Topics Covered**
 
 - What Ionic is and how its component library works across platforms
-- What Capacitor is and how it replaced Cordova as the native bridge
+- What a Capacitor is and how it replaced Cordova as the native bridge
 - How a web app gets packaged into a real iOS and Android app
 - Accessing native device features through Capacitor plugins
-- The difference between hybrid apps and cross-compiled apps
 - Setting up and running the app on a real device
 
 

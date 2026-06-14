@@ -12,7 +12,7 @@ A practical introduction to React Native and Expo for React developers. Covers w
 
 
 **Resources**
-> [React Native & Expo presentation](https://github.com/YahiaElkhasahb/web-to-mobile-playground/blob/master/React%20Native%20%26%20Expo/ReactNative%20%26Expo.pptx)
+> Presentation: [React Native & Expo presentation](https://github.com/YahiaElkhasahb/web-to-mobile-playground/blob/master/React%20Native%20%26%20Expo/ReactNative%20%26Expo.pptx)
 
 > [Meeting Recording](https://drive.google.com/file/d/1zm0WSOU6GOp9uXYYA0sJKcDRIrcYXRgM/view?usp=drive_link)
 ---
@@ -20,7 +20,7 @@ A practical introduction to React Native and Expo for React developers. Covers w
 ### Capacitor & Ionic
 A hands-on experiment with Ionic and Capacitor — exploring how to wrap a web app into a native mobile shell. Covers the Ionic component library, how Capacitor acts as a bridge between web code and native device APIs, and how to build and run the app on Android and iOS.
 
-> Project: [Cypher Game](./Capacitor%20%26%20Ionic/Cypher-game)
+> Project: [Cypher Game](https://github.com/YahiaElkhasahb/web-to-mobile-playground/tree/master/Capacitor%20%26%20Ionic/Cypher-game-main)
 
 > [Meeting Recording](https://drive.google.com/file/d/16n3puxYpZtEVkN4FOUGn5WiLyF7tX9j-/view?usp=drive_link)
 
@@ -50,9 +50,9 @@ This experiment was done to learn more about Progressive Web Apps (PWAs) and how
 **Resources**
 > Presentation: [PWA presentation](https://github.com/YahiaElkhasahb/web-to-mobile-playground/blob/master/PWA/PWA.pdf)
 
-> [Meeting Recording](https://drive.google.com/file/d/1zm0WSOU6GOp9uXYYA0sJKcDRIrcYXRgM/view?usp=drive_link)
+> [Meeting Recording](https://drive.google.com/file/d/1ualz-Qw7myoaD6mvrn1yTwxxjLkAg6sw/view?usp=drive_link)
 
 
 **Outcome**
 
-By completing this experiment, we gained a better understanding with the team of the main technologies behind PWAs and how they help create fast, reliable, and installable web applications and how to make a native mobile bridge 
+By completing this experiment, we gained a better understanding of the main technologies behind PWAs and how they help create fast, reliable, and installable web applications, and how to make a native mobile bridge 

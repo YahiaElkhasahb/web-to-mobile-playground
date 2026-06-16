@@ -1,0 +1,82 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* SnapUp — Design Tokens */
+:root {
+  /* Backgrounds */
+  --su-bg-base:         #0f172a;
+  --su-bg-surface:      #1e293b;
+  --su-bg-elevated:     #334155;
+  --su-bg-overlay:      rgba(15, 23, 42, 0.96);
+
+  /* Accent */
+  --su-accent:          #22d3ee;
+  --su-accent-dark:     #0e7490;
+  --su-accent-text:     #0f172a;
+
+  /* Text */
+  --su-text-primary:    #f8fafc;
+  --su-text-secondary:  #94a3b8;
+  --su-text-muted:      #64748b;
+  --su-text-faint:      #475569;
+
+  /* Borders */
+  --su-border-subtle:   #1e293b;
+  --su-border-default:  #334155;
+  --su-border-strong:   #475569;
+
+  /* Semantic */
+  --su-error-bg:        #2d1a1a;
+  --su-error-border:    #7f1d1d;
+  --su-error-text:      #fca5a5;
+  --su-success-bg:      #052e16;
+  --su-success-border:  #14532d;
+  --su-success-text:    #bbf7d0;
+
+  /* Category dots */
+  --su-dot-water:       #22d3ee;
+  --su-dot-move:        #a78bfa;
+
+  /* Radii */
+  --su-radius-sm:       8px;
+  --su-radius-md:       14px;
+  --su-radius-lg:       20px;
+  --su-radius-xl:       28px;
+  --su-radius-pill:     9999px;
+
+  /* Spacing scale */
+  --su-space-xs:        6px;
+  --su-space-sm:        12px;
+  --su-space-md:        20px;
+  --su-space-lg:        28px;
+  --su-space-xl:        48px;
+
+  /* Ring */
+  --su-ring-size:       96px;
+  --su-ring-track-w:   7px;
+  --su-ring-track-bg:  #1e293b;
+
+  /* Typography */
+  --su-font:            'Inter', system-ui, sans-serif;
+  --su-font-timer:      700 32px/1 var(--su-font);
+  --su-font-heading:   700 28px/1.15 var(--su-font);
+  --su-font-subhead:   700 20px/1.2 var(--su-font);
+  --su-font-body:      400 15px/1.6 var(--su-font);
+  --su-font-label:     500 12px/1.4 var(--su-font);
+  --su-font-caption:   400 11px/1.4 var(--su-font);
+
+  /* Layout */
+  --su-max-width:       480px;
+  --su-page-pad:        20px;
+
+  /* Transitions */
+  --su-ease:            all 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body {
+  font-family: var(--su-font);
+  background: var(--su-bg-base);
+  margin: 0;
+}

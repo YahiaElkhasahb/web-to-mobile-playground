@@ -35,10 +35,13 @@ A practical introduction to React Native and Expo for React developers. Covers w
 
 
 **Resources**
+> Project: [Calories Planner](https://github.com/YahiaElkhasahb/web-to-mobile-playground/tree/master/React%20Native%20%26%20Expo/calories%20planner)
 
 > Presentation: [React Native & Expo presentation](https://github.com/YahiaElkhasahb/web-to-mobile-playground/blob/master/React%20Native%20%26%20Expo/ReactNative%20%26Expo.pptx)
 
 > [Meeting Recording](https://drive.google.com/file/d/1zm0WSOU6GOp9uXYYA0sJKcDRIrcYXRgM/view?usp=drive_link)
+
+
 ---
 
 ### Capacitor & Ionic
@@ -94,6 +97,7 @@ This experiment was done to learn more about Progressive Web Apps (PWAs) and how
 - PWAs can improve the user experience without requiring a separate mobile application
 
 **Resources**
+> Project: [SnapUp](https://github.com/YahiaElkhasahb/web-to-mobile-playground/tree/master/PWA/snapup)
 
 > Presentation: [PWA presentation](https://github.com/YahiaElkhasahb/web-to-mobile-playground/blob/master/PWA/PWA.pdf)
 
